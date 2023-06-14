@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23395425345",
+    "project_id": "videocall-100ed",
+    "storage_bucket": "videocall-100ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23395425345:android:bc60f40256918ccc87fac0",
+        "android_client_info": {
+          "package_name": "com.ravix.call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23395425345-d4dsi7n5o35hsn84qrii3ft6ustr2tm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPvjJx2b76ljRUqnM8DiMEtSvwXI_qL1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23395425345-d4dsi7n5o35hsn84qrii3ft6ustr2tm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
